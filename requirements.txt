@@ -1,2 +1,5 @@
 flask
 gunicorn
+joblib
+numpy        # si ton modèle ML utilise numpy
+scikit-learn # si ton modèle ML utilise scikit-learn
